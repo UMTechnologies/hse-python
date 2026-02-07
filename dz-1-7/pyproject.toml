@@ -1,0 +1,9 @@
+[project]
+name = "Homework7"
+description = "Работа с API"
+version = "1.0.0"
+requires-python = ">=3.10"
+dependencies = [
+    "requests",
+    "python-dotenv",
+]
