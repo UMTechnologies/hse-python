@@ -1,0 +1,8 @@
+[project]
+name = "Homework10"
+description = "Python для аналитиков ИБ: эксплойты"
+version = "1.0.0"
+requires-python = ">=3.10"
+dependencies = [
+    "requests",
+]
