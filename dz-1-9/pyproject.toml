@@ -1,0 +1,10 @@
+[project]
+name = "Homework9"
+description = "Python для аналитиков ИБ: API и анализ данных"
+version = "1.0.0"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+    "matplotlib",
+    "seaborn",
+]
